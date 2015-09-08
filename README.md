@@ -1,5 +1,4 @@
 ## Overview
-<<<<<<< HEAD
 This is a basic mocha test sample, which references from [nicolas.perriault.net](https://nicolas.perriault.net/code/2013/testing-frontend-javascript-code-using-mocha-chai-and-sinon/).
 
 ## How to test?
